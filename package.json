@@ -1,0 +1,31 @@
+{
+  "name": "bean-ai",
+  "version": "1.0.0",
+  "description": "ai research for bean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quickly3/bean-ai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quickly3/bean-ai/issues"
+  },
+  "homepage": "https://github.com/quickly3/bean-ai#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "https-proxy-agent": "^5.0.1",
+    "lodash": "^4.17.21",
+    "mkdirp": "^3.0.0",
+    "openai": "^3.2.1",
+    "prompt": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.194",
+    "@types/node": "^18.15.11"
+  }
+}
